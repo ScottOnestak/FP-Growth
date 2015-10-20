@@ -7,7 +7,7 @@ Runtime analysis of the algorithm based on different minimum support thresholds 
 
 Support	   FP-Growth (milliseconds)
 
-0.0001	   2465
+0.0001	          2465
 
 0.001	     961
 
